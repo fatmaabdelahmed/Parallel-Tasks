@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697069972 source:c:\users\hp\onedrive\desktop\task1\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
